@@ -1,0 +1,6 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "livePreview.defaultPreviewPath": "d:\\app-name\\index.html"
+}
